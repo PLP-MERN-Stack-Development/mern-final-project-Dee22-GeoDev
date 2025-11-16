@@ -6,10 +6,7 @@ It provides a seamless way for users to **browse jobs**, **find talents**, and *
 ---
 
 ## 🚀 Live Demo  
-🔗 **View the live project here:** 
-[Live Demo_backend](https://talentconnect-l79w.onrender.com/)
-
-[Live Demo_frontend](https://talentconnect-henna.vercel.app/)
+🔗 **View the live project here:** [Live Demo](https://talent-connecthub.netlify.app/)  
 
 ## 🖼️ Preview  
 ![TalentConnect Preview](./snippets/talentconnect_app.png)
